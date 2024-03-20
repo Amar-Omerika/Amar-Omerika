@@ -1,7 +1,7 @@
   Hi there, Welcome to my profile 👋
   <hr>
   
-  <h2>I'm a software engineering student !!</h2>
+  <h2>I'm a software engineer !!</h2>
   
   <br>
 
